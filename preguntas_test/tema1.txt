@@ -1,3 +1,7 @@
 <pregunta>
-  <enunciado>Prueba de los test</enunciado>
+  <enunciado>Un sitio web de exito tiene una estructura:</enunciado>
+  <opcionA>Web y correo</opcionA>
+  <opcionB>Web, bases de datos y correo</opcionB>
+  <opcionC>Base de datos y correo</opcionC>
+  <opcionD>Web, base de datos, correo y balanceador de carga</opcionD>
 </pregunta>
