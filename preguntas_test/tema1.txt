@@ -4,4 +4,5 @@
   <opcionB>Web, bases de datos y correo</opcionB>
   <opcionC>Base de datos y correo</opcionC>
   <opcionD>Web, base de datos, correo y balanceador de carga</opcionD>
+  <solucion>Web, bases de datos y correo</solucion>
 </pregunta>
