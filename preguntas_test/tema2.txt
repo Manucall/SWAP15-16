@@ -1,0 +1,7 @@
+<pregunta>
+   <enunciado>Si hay sobrecarga en algun componente del servidor debemos: </enunciado>
+   <opcionA>Añadir mas componentes del mismo tipo para distribuir la carga</opcionA>
+   <opcionB>Sustituir el componente por otro del mismo tipo</opcionB>
+   <opcionC>Dejarlo tal cual está</opcionC>
+   <opcionD>Buscar un sustituto para ese componente de otro tipo</opcionD>
+   <solucion></solucion>

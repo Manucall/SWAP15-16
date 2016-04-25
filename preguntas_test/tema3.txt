@@ -1,0 +1,7 @@
+<enunciado>Cual es la alternativa mas segura para conectar una granja web a otras redes:</enunciado>
+   <opcionA>Configuracion de DMZ simple</opcionA>
+   <opcionB>Configuracion de DMZ doble</opcionB>
+   <opcionC>Configuracion sin DMZ</opcionC>
+   <opcionD>Configuracion de DMZ tradicional</opcionD>
+   <solucion>B</solucion>
+

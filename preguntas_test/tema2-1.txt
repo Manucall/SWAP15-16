@@ -1,0 +1,6 @@
+<enunciado>Un sistema con una disponibilidad del 99% tiene una caida al año de:</enunciado>
+   <opcionA>7 dias</opcionA>
+   <opcionB>88 horas</opcionB>
+   <opcionC>120 minutos</opcionC>
+   <opcionD>300 horas</opcionD>
+   <solucion>B</solucion>
