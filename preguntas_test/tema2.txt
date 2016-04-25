@@ -4,4 +4,5 @@
    <opcionB>Sustituir el componente por otro del mismo tipo</opcionB>
    <opcionC>Dejarlo tal cual está</opcionC>
    <opcionD>Buscar un sustituto para ese componente de otro tipo</opcionD>
-   <solucion></solucion>
+   <solucion>A</solucion>
+   </pregunta>
