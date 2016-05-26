@@ -1,1 +1,9 @@
 
+<pregunta>
+  <enunciado>El balanceador de carga: </enunciado>
+  <opcionA>Reparte el tráfico mediante el algoritmo RR</opcionA>
+  <opcionB>Redirige el tráfico de los servidores finales</opcionB>
+  <opcionC>Comprueba la disponibilidad y carga de los servidores finales para adecuar el tráfico que redirige</opcionC>
+  <opcionD>Devuelve los recursos que están en caché para no sobrecargar los servidores</opcionD>
+  <solucion>C</solucion>
+</pregunta>
