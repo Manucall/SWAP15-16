@@ -1,1 +1,9 @@
 
+<pregunta>
+  <enunciado>A la hora de comprobar el rendimiento de un servidor:</enunciado>
+  <opcionA>Apache Benchmark</opcionA>
+  <opcionB>JMetes</opcionB>
+  <opcionC>httperf</opcionC>
+  <opcionD>Depende del contexto</opcionD>
+  <solucion>D</solucion>
+</pregunta>
