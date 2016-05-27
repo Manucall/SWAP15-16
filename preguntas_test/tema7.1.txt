@@ -1,1 +1,9 @@
 
+<pregunta>
+  <enunciado>Un sistema RAID0: </enunciado>
+  <opcionA>Accede a cualquier disco aunque falle uno de ellos</opcionA>
+  <opcionB>Hace una replica de datos de un disco a otro</opcionB>
+  <opcionC>Utiliza ambos discos como una única unidad</opcionC>
+  <opcionD>B y C son las correctas</opcionD>
+  <solucion>D</solucion>
+</pregunta>
