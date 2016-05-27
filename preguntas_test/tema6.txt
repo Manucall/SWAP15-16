@@ -1,1 +1,9 @@
 
+<pregunta>
+  <enunciado>En caso de amenaza a nuestra granja web debemos: </enunciado>
+  <opcionA>Simplemente configurar el cortafuegos de forma correcta</opcionA>
+  <opcionB>Instalar el cortafuegos en la máquina que actúa como balanceador de carga</opcionB>
+  <opcionC>Estar al tanto de nuevas posibles vulnerabilidades</opcionC>
+  <opcionD>B y C son correctas</opcionD>
+  <solucion>D</solucion>
+</pregunta>
