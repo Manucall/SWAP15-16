@@ -1,1 +1,9 @@
 
+<pregunta>
+  <enunciado>Un sistema de almacenamiento se compondría de: </enunciado>
+  <opcionA>Base de datos y sistema de archivos</opcionA>
+  <opcionB>Sistema de datos y software específico</opcionB>
+  <opcionC>Solamente una base de datos</opcionC>
+  <opcionD>Ninguna de las anteriores</opcionD>
+  <solucion>A</solucion>
+</pregunta>
