@@ -80,4 +80,3 @@ Debemos de añadir la siguiente línea en el archivo:
 
 
 
-Una de las formas para clonar archivos por SSH es redirigiendo el contenido del archivo a ssh para que lo envíe al destino
