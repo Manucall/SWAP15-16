@@ -7,3 +7,13 @@
   <opcionD>Devuelve los recursos que están en caché para no sobrecargar los servidores</opcionD>
   <solucion>C</solucion>
 </pregunta>
+
+
+<pregunta>
+  <enunciado>En una granja web, los servidores:</enunciado>
+  <opcionA>Devuelven la respuesta a la IP del cliente, y poniendo como IP de origen la VIP del balanceador</opcionA>
+  <opcionB>Devuelven la respuesta al balanceador, IP de origen la VIP del balanceador</opcionB>
+  <opcionC>Devuelven la respuesta al balanceador, IP de origen su propia IP</opcionC>
+  <opcionD>B y C son correctas</opcionD>
+  <solucion>D</solucion>
+</pregunta>
