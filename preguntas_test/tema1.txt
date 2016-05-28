@@ -6,3 +6,12 @@
   <opcionD>Web, base de datos, correo y balanceador de carga</opcionD>
   <solucion>B</solucion>
 </pregunta>
+
+<pregunta>
+  <enunciado>La escalabilidad es: </enunciado>
+  <opcionA>Capacidad para dar soporte a un unico usuario</opcionA>
+  <opcionB>Capacidad para dar soporte a un numero bajo de usuarios</opcionB>
+  <opcionC>Capacidad para dar soporte a un numero creciente de usuarios</opcionC>
+  <opcionD>Capacidad de un sistema de soportar varias maquinas a la vez</opcionD>
+ <solucion>C</solucion>	
+</pregunta>
