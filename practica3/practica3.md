@@ -31,7 +31,7 @@ sudo nano /etc/nginx/nginx.conf
 ```
 Dejándolo tal que así:
 
-![Modificar archivo](https://github.com/Manucall/SWAP15-16/blob/master/practica3/5.png)
+![Modificar archivo](https://github.com/Manucall/SWAP15-16/blob/master/practica3/nueva.jpg)
 
 Para comprobar su funcionamiento, accedemos a la IP y vemos como carga alternativamente ambas máquinas.
 
