@@ -17,12 +17,12 @@ Previamente a la instalación debemos añadir el repositorio al fichero /etc/apt
 ```
 sudo nano /etc/apt/sources.list
 ```
-![Añadiendo repositorios al final del archivo](https://github.com/Manucall/SWAP15-16/blob/master/practica3/Fotos/3.png)
+![Añadiendo repositorios al final del archivo](https://github.com/Manucall/SWAP15-16/blob/master/practica3/3.png)
 
 ```
 sudo apt-get install nginx
 ```
-![instalación de nginx](https://github.com/Manucall/SWAP15-16/blob/master/practica3/Fotos/6.png)
+![instalación de nginx](https://github.com/Manucall/SWAP15-16/blob/master/practica3/6.png)
 
 Para el perfecto uso de esta herramientas, debemos modificar el archivo */etc/nginx/nginx.conf*
 
@@ -31,11 +31,11 @@ sudo nano /etc/nginx/nginx.conf
 ```
 Dejándolo tal que así:
 
-![Modificar archivo](https://github.com/Manucall/SWAP15-16/blob/master/practica3/Fotos/5.png)
+![Modificar archivo](https://github.com/Manucall/SWAP15-16/blob/master/practica3/5.png)
 
 Para comprobar su funcionamiento, accedemos a la IP y vemos como carga alternativamente ambas máquinas.
 
-![](https://github.com/Manucall/SWAP15-16/blob/master/practica3/Fotos/balaceador.png)
+![](https://github.com/Manucall/SWAP15-16/blob/master/practica3/balaceador.png)
 
 Añadiendo el parámetro *weight* cambiamos el "peso" que tiene cada servidor:
 (dentro del archivo )
