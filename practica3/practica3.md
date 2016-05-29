@@ -33,9 +33,9 @@ Dejándolo tal que así:
 
 ![Modificar archivo](https://github.com/Manucall/SWAP15-16/blob/master/practica3/nueva.jpg)
 
-Para comprobar su funcionamiento, accedemos a la IP y vemos como carga alternativamente ambas máquinas.
+Para comprobar su funcionamiento, accedemos a la IP y vemos cómo carga alternativamente ambas máquinas.
 
-![](https://github.com/Manucall/SWAP15-16/blob/master/practica3/balaceador.png)
+![Ejemplos de balanceo entre servidores](https://github.com/Manucall/SWAP15-16/blob/master/practica3/balaceador.png)
 
 Añadiendo el parámetro *weight* cambiamos el "peso" que tiene cada servidor:
 (dentro del archivo )
@@ -43,8 +43,8 @@ Añadiendo el parámetro *weight* cambiamos el "peso" que tiene cada servidor:
 ```
 upstream apaches {
 
-  server 192.168.1.100 weight=1;
-  server 192.168.1.101 weight=2;
+  server 192.168.1.100 weight=2;
+  server 192.168.1.101 weight=1;
 }
 ```
 ![balanceador con peso](https://github.com/Manucall/SWAP15-16/blob/master/practica3/9.jpg)
